@@ -1,6 +1,10 @@
 This is the house.
 This is the malt.
+<<<<<<< HEAD
 This is the snake.
+=======
+This is the tiger.
+>>>>>>> branch1
 This is the cat.
 This is the dog.
 This is the cow.
