@@ -1,6 +1,6 @@
 This is the house.
 This is the malt.
-This is the rat.
+This is the tiger.
 This is the cat.
 This is the dog.
 This is the cow.
